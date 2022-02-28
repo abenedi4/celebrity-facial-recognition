@@ -1,0 +1,57 @@
+./cropped/alexandria\927ECEAE-44D3-4222-9670-168433FCDE9D.png 188 341 920 1250
+./cropped/alexandria\9B97CE8C-E0F8-4E4E-BAE5-EAF64B818A7A.png 303 337 757 945
+./cropped/alexandria\A4F4F944-AE17-43CA-86A9-08255938C129.png 145 12 489 446
+./cropped/alexandria\FE5F036B-F14D-4A52-A7EA-A8A2D3F0F0DF.png
+./cropped/alexandria\headshot.png 64 42 199 197
+./cropped/alexandria\idphoto.png 761 476 1419 1349
+./cropped/alexandria\IMG 1.png 795 113 1128 531
+./cropped/alexandria\IMG 10.png 889 75 1223 492
+./cropped/alexandria\IMG 2.png 786 107 1102 518
+./cropped/alexandria\IMG 3.png 752 107 1070 523
+./cropped/alexandria\IMG 4.png 802 90 1097 485
+./cropped/alexandria\IMG 5.png 838 107 1145 512
+./cropped/alexandria\IMG 6.png 779 115 1109 540
+./cropped/alexandria\IMG 7.png 792 110 1095 504
+./cropped/alexandria\IMG 8.png 774 105 1091 513
+./cropped/alexandria\IMG 9.png 806 107 1109 511
+./cropped/alexandria\WIN_20210920_20_56_48_Pro.png 894 110 1197 498
+./cropped/benedict cumberbatch\bc1.png 49 10 178 170
+./cropped/benedict cumberbatch\bc10.png 16 11 119 134
+./cropped/benedict cumberbatch\bc2.png 26 8 137 149
+./cropped/benedict cumberbatch\bc3.png 36 3 134 119
+./cropped/benedict cumberbatch\bc4.png 15 2 155 170
+./cropped/benedict cumberbatch\bc5.png 58 5 164 134
+./cropped/benedict cumberbatch\bc6.png 33 8 138 138
+./cropped/benedict cumberbatch\bc7.png 4 14 134 176
+./cropped/benedict cumberbatch\bc8.png 31 12 140 142
+./cropped/benedict cumberbatch\bc9.png 53 0 176 137
+./cropped/chris evans\ce1.png 19 12 136 160
+./cropped/chris evans\ce10.png 123 68 314 316
+./cropped/chris evans\ce2.png 15 12 143 170
+./cropped/chris evans\ce3.png 19 7 132 148
+./cropped/chris evans\ce4.png 0 12 126 178
+./cropped/chris evans\ce5.png 12 6 129 138
+./cropped/chris evans\ce6.png 27 0 121 113
+./cropped/chris evans\ce7.png 14 0 121 127
+./cropped/chris evans\ce8.png 56 10 166 140
+./cropped/chris evans\ce9.png 115 13 231 158
+./cropped/scarlett johansson\sj1.png 25 23 155 188
+./cropped/scarlett johansson\sj10.png 12 5 128 149
+./cropped/scarlett johansson\sj2.png 37 0 139 120
+./cropped/scarlett johansson\sj3.png 32 0 125 109
+./cropped/scarlett johansson\sj4.png 29 1 132 126
+./cropped/scarlett johansson\sj5.png 0 10 134 176
+./cropped/scarlett johansson\sj6.png 45 5 136 112
+./cropped/scarlett johansson\sj7.png 16 0 123 117
+./cropped/scarlett johansson\sj8.png 37 4 138 127
+./cropped/scarlett johansson\sj9.png 17 9 115 129
+./cropped/taehyung\t1.png 30 17 153 162
+./cropped/taehyung\t10.png 5 4 158 178
+./cropped/taehyung\t2.png 3 0 117 127
+./cropped/taehyung\t3.png 34 2 147 131
+./cropped/taehyung\t4.png 15 9 126 133
+./cropped/taehyung\t5.png 43 21 177 173
+./cropped/taehyung\t6.png 36 0 129 105
+./cropped/taehyung\t7.png 0 21 120 165
+./cropped/taehyung\t8.png 42 7 151 130
+./cropped/taehyung\t9.png 21 17 126 132

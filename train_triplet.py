@@ -64,7 +64,7 @@ enc_N = FRmodel(N)
 
 
 # Callbacks
-early_stopping = EarlyStopping(monitor='loss', patience=5, min_delta=0.00005)
+#early_stopping = EarlyStopping(monitor='loss', patience=5, min_delta=0.00005)
 STAMP = 'facenet_%d'%(len(paths)) 
 checkpoint_dir = './' + 'checkpoints/' + str(int(time.time())) + '/'
 
@@ -75,11 +75,11 @@ bst_model_path = checkpoint_dir + STAMP + '.h5'
 tensorboard = TensorBoard(log_dir=checkpoint_dir + "logs/{}".format(time.time()))
 
 # Model
-tripletModel = Model(input=[A, P, N], output=[enc_A, enc_P, enc_N])
+tripletModel = Model(inputs=[A, P, N], outputs=[enc_A, enc_P, enc_N])
 tripletModel.compile(optimizer = 'adam', loss = triplet_loss)
 
 gen = batch_generator(BATCH_SIZE)
-tripletModel.fit_generator(gen, epochs=NUM_EPOCHS,steps_per_epoch=STEPS_PER_EPOCH,callbacks=[early_stopping, tensorboard])
+tripletModel.fit(gen, epochs=NUM_EPOCHS,steps_per_epoch=STEPS_PER_EPOCH,callbacks=[tensorboard])
 
 FRmodel.save(bst_model_path)
 with open('bestmodel.txt','w') as file:
